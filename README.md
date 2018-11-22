@@ -4,7 +4,8 @@
 
 NeuralOS
 ===========
-NeuralOS is a custom ROM (Operating System) from AOSP source which supports Qualcomm devices.
+NeuralOS is a custom ROM (Operating System) from AOSP source which supports Qualcomm devices.Feel the impulse made by it.
+# Added Dendrite feature
 
 Thanks to
 -------
