@@ -1,0 +1,2 @@
+# manifest
+NeuralOS repo syc
