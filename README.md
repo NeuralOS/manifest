@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/NeuralOS/extraUI/blob/master/neural_logo.jpg" width="320px" height="320px" > 
+<img src="https://github.com/NeuralOS/extraUI/blob/master/neural_logo.jpg" > 
 </p>
 
 NeuralOS
