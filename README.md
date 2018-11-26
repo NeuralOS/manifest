@@ -35,6 +35,8 @@ Finally to build:
 
 ```bash
   . build/envsetup.sh
-  lunch aosp_device_codename-userdebug
-  mka aex -jx
+  lunch
+  mka bacon -jx
 ```
+
+x - referred as no of cores in system (fast depends on core's you target)
